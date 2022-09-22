@@ -1,0 +1,11 @@
+cat > [][Dfilename[C
+
+add lines sto existing file[A[A[D[1;5D[1;5D[D[D[D[D[D[D[D[D[D[D[C][D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[B[B[1;5C[C[C[C[C[C[C[C[C[C[C[Cs [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D
+cat >> [][Dfilename[C[D]
+
+write cat [][Dfilename] to see what is in the file
+[A[A
+[A[B
+[A[Bafter finishing writing lines in a file press CTRL + D to save the file.
+[][Dфывзлйцщулфджьлсьмьч
